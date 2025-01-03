@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/b1e2fed7-34de-402e-980e-1cab353e9dba)---
 permalink: /
 title: "WenjunLUO's HOMEPAGE"
 author_profile: true
